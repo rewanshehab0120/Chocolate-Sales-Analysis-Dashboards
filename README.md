@@ -20,6 +20,8 @@ The final dashboard was redesigned with **User Experience** in mind:
 * **Structured Backend:** Organized Pivot Tables for seamless future updates.
 * **Direct Answers:** Focused on answering critical business questions at a glance.
 
+![Final Dashboard Screenshot](https://github.com/rewanshehab0120/Chocolate-Sales-Analysis-Dashboards/blob/main/fiD.png?raw=true)
+
 ## 📁 Repository Structure
 - `Dashboard.xlsx`: The final interactive Excel file.
 - `Images/`: Contains screenshots of the final dashboard.
